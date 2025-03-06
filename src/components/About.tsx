@@ -27,7 +27,7 @@ const About: React.FC = () => {
             >
               <div className="d-none d-md-block w-48 h-48 md:w-64 md:h-64 mx-auto relative rounded-full overflow-hidden border-4 border-primary/30">
                 <img
-                  src="https://i.postimg.cc/kgGdy3bD/Srinu.png"
+                  src="https://i.postimg.cc/0NSXR8gr/b.png"
                   alt="Srinivasu Kadiyam"
                   className="w-full h-full object-cover"
                 />
