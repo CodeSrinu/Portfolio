@@ -42,9 +42,9 @@ const Skills: React.FC = () => {
       name: 'Frameworks & Libraries',
       icon: <Box className="text-primary" size={24} />,
       skills: [
-        { name: 'React', level: 85 },
-        { name: 'Node.js', level: 80 },
-        { name: 'Unity', level: 75 },
+        { name: 'React', level: 68 },
+        { name: 'Node.js', level: 72 },
+        { name: 'Flask', level: 48 },
       ],
     },
     {
