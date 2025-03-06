@@ -25,7 +25,7 @@ const Hero: React.FC = () => {
         >
           <div className="w-48 h-48 md:w-56 md:h-56 mx-auto relative mb-8 group">
             <img
-              src="/../src/images/a.png"
+              src= "https://i.postimg.cc/kgGdy3bD/Srinu.png"
               alt="Srinivasu Kadiyam"
               className="w-full h-full object-cover rounded-full border-4 border-primary/30 transition-all duration-300 group-hover:border-primary"
             />
