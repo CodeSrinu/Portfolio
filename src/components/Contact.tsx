@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Mail, Linkedin, Github, Twitter, TwitterIcon, Youtube } from 'lucide-react';
+import { Linkedin, Github, TwitterIcon, Youtube } from 'lucide-react';
 
 const Contact: React.FC = () => {
   return (
